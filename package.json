@@ -1,0 +1,23 @@
+{
+  "name": "how-to-npm",
+  "version": "1.0.0",
+  "description": "Runthrough of tutorial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emilabraham/how-to-npm.git"
+  },
+  "keywords": [
+    "nodejs",
+    "tutorial"
+  ],
+  "author": "Emil Abraham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilabraham/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/emilabraham/how-to-npm"
+}
